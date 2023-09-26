@@ -1,0 +1,25 @@
+{
+	"name": "web-tech",
+	"version": "1.0.0",
+	"description": "```bash\r node --inspect-brk \"Node file Name\"\r ```",
+	"main": "app.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"debug": "node --inspect-brk app"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Aashay-Thakur/web-tech.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Aashay-Thakur/web-tech/issues"
+	},
+	"homepage": "https://github.com/Aashay-Thakur/web-tech#readme",
+	"dependencies": {
+		"express": "^4.18.2",
+		"mysql": "^2.18.1"
+	}
+}

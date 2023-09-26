@@ -5,13 +5,13 @@
 ### Check Node
 
 ```bash
-    node --version
+node --version
 ```
 
 ### Installing Packages through NPM
 
 ```bash
-    npm install "Package Name"
+npm install "Package Name"
 ```
 
 #### Check if the package has been installed by opening the package.json file.
@@ -19,7 +19,5 @@
 ### Run
 
 ```bash
-
 node "Javascript file Name"
-
 ```

@@ -1,0 +1,21 @@
+{
+  "name": "web-tech",
+  "version": "1.0.0",
+  "description": "![Node Js](https://www.bretfisher.com/content/images/2017/05/nodejs-new-pantone-white.png \"Node JS\")",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aashay-Thakur/web-tech.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aashay-Thakur/web-tech/issues"
+  },
+  "homepage": "https://github.com/Aashay-Thakur/web-tech#readme"
+}
